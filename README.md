@@ -1,9 +1,7 @@
 # Dysarthric Speech Recognition System
 
 ## Motivation
-Individuals with motor speech disorders often struggle with traditional speech recognition systems, creating barriers to independence and mobility.  
-This project addresses that challenge by fine‑tuning a **Wav2Vec2 model** on dysarthric speech datasets (UASpeech, TORGO) to improve recognition accuracy.  
-By combining optimized training with a real‑time, wake‑word activated pipeline, the system enables reliable **voice‑controlled wheelchair navigation** — all offline and with minimal latency.
+Individuals with motor speech disorders often struggle with traditional speech recognition systems, creating barriers to independence and mobility. This project addresses that challenge by fine‑tuning a **Wav2Vec2 model** on dysarthric speech datasets (UASpeech, TORGO) to improve recognition accuracy. By combining optimized training with a real‑time, wake‑word activated pipeline, the system enables reliable **voice‑controlled wheelchair navigation** — all offline and with minimal latency.
 
 ---
 
