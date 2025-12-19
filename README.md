@@ -34,6 +34,8 @@ Individuals with motor speech disorders often struggle with traditional speech r
 📄 ASR.py            → real-time speech recognition system
 📄 environment.yml   → dependencies for Conda environment
 
+To get model parameters download from this google drive: [Model Files](https://drive.google.com/drive/folders/1V5cxaTxbSmFlER3M-AAEdEKh2gls5-Hp)
+
 ---
 
 ## SETUP INSTRUCTIONS
